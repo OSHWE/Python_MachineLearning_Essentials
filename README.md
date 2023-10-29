@@ -1,0 +1,3 @@
+
+# Python_MachineLearning_Essentials\nThis repository hosts a collection of Colab notebooks that provide a fundamental understanding and methods in Machine Learning &amp; Artificial Intelligence using Google's TensorFlow 2.0 library.\n
+Originally prepared for a Python-based Machine Learning course by a knowledgeable contributor from freeCodeCamp.org, these resources now come under the maintainership of OSHWE. We encourage your constructive contributions to enhance the learning experience for all users.
